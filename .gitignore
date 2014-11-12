@@ -1,4 +1,5 @@
 packer_cache/
+.packer/
 output-*
 *.box
 *.tar.gz
